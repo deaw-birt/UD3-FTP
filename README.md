@@ -4,8 +4,8 @@
 
 Recursos disponibles para esta tarea:
 
-- **Recursos_contenedor1** Contenido de la carpeta /srv/ftp
-- **Recursos_contenedor2** Contenido de la carpeta /srv/deaw
+- **Recursos Contenedor 1 -** Contenido de la carpeta /srv/ftp
+- **Recursos Contenedor 2 -** Contenido de la carpeta /srv/deaw
 
 ## Entrega
 Ficheros requeridos:
